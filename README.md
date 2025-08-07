@@ -60,7 +60,7 @@ Numero de descargas: 96753
 ### 1. Clona el repositorio
 
 ```bash
-https://github.com/rudygomez404/Booktify.git
+https://github.com/rudy-gomez/Booktify.git
 ```
 
 ### 2. Configura tu base de datos
